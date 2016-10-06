@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="error_message">No connection</string>
+    <string name="settings_all">all</string>
+    <string name="settings_every_fifth">every 5th</string>
+    <string name="settings_every_hundredth">every 100th</string>
+    <string name="settings_every_twenty_fifth">every 25th</string>
+</resources>

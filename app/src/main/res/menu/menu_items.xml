@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_all"
+        android:title="@string/settings_all"></item>
+
+    <item
+        android:id="@+id/action_every_fifth"
+        android:title="@string/settings_every_fifth"></item>
+
+    <item
+        android:id="@+id/action_every_twenty_fifth"
+        android:title="@string/settings_every_twenty_fifth"></item>
+
+    <item
+        android:id="@+id/action_every_hundredth"
+        android:title="@string/settings_every_hundredth"></item>
+
+</menu>
